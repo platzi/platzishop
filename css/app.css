@@ -1,4 +1,5 @@
-#header-container {
+#header-container,
+#info-container {
   background-color: #99c84a;
   color: white;
 }
@@ -18,4 +19,12 @@
 
 .btn.btn-platzi:hover {
   background-color: #8ab542;
+}
+
+#search-bar {
+  padding: 1em;  
+}
+
+#info-container h4 {
+  text-align: center;
 }
