@@ -2,3 +2,20 @@
   background-color: #99c84a;
   color: white;
 }
+
+#menu-container {
+  background-color: #f7f7f9;
+}
+
+.form-control:focus {
+  border-color: #99c84a;
+}
+
+.btn.btn-platzi {
+  background-color: #99c84a;
+  color: white;
+}
+
+.btn.btn-platzi:hover {
+  background-color: #8ab542;
+}
