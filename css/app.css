@@ -28,3 +28,7 @@
 #info-container h4 {
   text-align: center;
 }
+
+#productsCarousel img {
+  margin: 0 auto;
+}
