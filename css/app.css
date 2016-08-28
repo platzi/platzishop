@@ -20,6 +20,11 @@ a:hover {
   background-color: #f7f7f9;
 }
 
+#menu-container .nav-container .nav {
+  display: inline-block;
+  margin-bottom: -6px;
+}
+
 .form-control:focus {
   border-color: #99c84a;
 }
