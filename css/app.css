@@ -65,3 +65,19 @@ a:hover {
     margin-bottom: 2em;
   }
 }
+
+#breadcrumbs-container .breadcrumb {
+  background-color: white;
+}
+
+#breadcrumbs-container .breadcrumb .breadcrumb-item {
+  color: #1c3643;
+}
+
+#breadcrumbs-container .breadcrumb .breadcrumb-item.active {
+  color: #95a5a6;
+}
+
+#breadcrumbs-container .breadcrumb .breadcrumb-item+.breadcrumb-item::before {
+  content: ">";
+}
