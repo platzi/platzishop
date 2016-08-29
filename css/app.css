@@ -101,3 +101,16 @@ a:hover {
     margin-bottom: 1em;
   }
 }
+
+.pagination-container {
+  margin-bottom: 0 !important;
+}
+
+.page-item.active .page-link, .page-item.active .page-link:focus, .page-item.active .page-link:hover {
+  background-color: #99c84a;
+  border-color: #99c84a;
+}
+
+.page-link, .page-link:focus, .page-link:hover {
+  color: #8ab542;
+}
